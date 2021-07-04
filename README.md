@@ -1,5 +1,6 @@
 # Convolutional Neural Network CNN + Data Augmentation
-CNN with data augmentation from Cininc10
+
+CNN with data augmentation from Cinic10
 
 This CNN was a prooject and consist of training a CNN simple and with Data augmentation.
 
