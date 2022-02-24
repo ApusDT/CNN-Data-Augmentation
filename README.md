@@ -1,4 +1,4 @@
-# Convolutional Neural Network CNN + Data Augmentation
+# Convolutional Neural Network CNN + Data Augmentation from Cinic10
 
 CNN with data augmentation from Cinic10
 
